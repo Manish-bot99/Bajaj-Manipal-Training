@@ -10,7 +10,7 @@ public class MyStreamPractice {
 		
 		//1. Count
 		List<String> ls = new ArrayList<String>();
-		ls = Arrays.asList("Mayank", "Ameesh", "Harsh", "Nikhil", "Prince", "Mohit", "Priya", "Ananya", "Mohit");
+		ls = Arrays.asList("Manish", "Shamik", "Harsh", "Nikhil", "Deb", "Mohit", "Priya", "Ananya", "Sneha");
 		long count = ls.stream().count();
 		System.out.println("Number of elements "+count);
 		
