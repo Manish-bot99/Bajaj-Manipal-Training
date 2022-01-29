@@ -1,0 +1,25 @@
+html
+  head
+    title Express HTML
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js')
+    link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css')
+    link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js')
+  body
+    div(style='margin:100px;')
+      .navbar.navbar-inverse.navbar-static-top
+        .container
+          a.navbar-brand(href='/') Express HTML
+          ul.nav.navbar-nav
+            li.active
+              a(href='index.html') Home
+            li
+              a(href='#') About
+            li
+              a(href='#') Sitemap
+        .jumbotron(style='padding:40px;')
+          h1 Hello, world!
+          p
+            | This is a simple test unit. #{name}
+          p
+            a.btn.btn-primary.btn-lg(href='#' role='button')

@@ -1,0 +1,4 @@
+{"type":["desc","Windows_NT"],"uptime":["desc",857852],"release":["desc","10.0.22000"],"totalmem":["desc",7916032000],"freemem":["desc",1313517568],"endianness":["desc","LE"],"platform":["desc","win32"]}
+1,2,3,4,5
+10
+2.5
