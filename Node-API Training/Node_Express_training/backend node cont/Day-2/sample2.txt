@@ -1,1 +1,0 @@
-{"type":["desc","Windows_NT"],"uptime":["desc",846738],"release":["desc","10.0.22000"],"totalmem":["desc",7916032000],"freemem":["desc",1260191744],"endianness":["desc","LE"],"platform":["desc","win32"]}
